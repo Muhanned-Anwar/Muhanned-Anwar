@@ -16,6 +16,7 @@ class DevMaas extends Developer
             "Laravel",
             "Flutter",
             "Python",
+            "AWS",
             "Java",
             "Refactoring",
             "Linux",
