@@ -1,11 +1,11 @@
-Hi there 👋, I'm Mohanned Anwar AboSkran:
+Hi there 👋, I'm Mohanned Anwar:
 
 I am a full-stack developer with expertise in various languages and tools such as Python, Java, Android, Flutter, Dart, Laravel, PHP, TDD, Linux, Refactoring, HTML, CSS, JavaScript, Firebase, Boot API, etc. I have experience in building various web and mobile applications.
 
 
     class DevMaas extends Developer
     {
-        public String $name = "Mohanned Anwar AboSkran";
+        public String $name = "Mohanned Anwar";
         public String $position = "Fullstack Developer";
     
         public function knowledge()
