@@ -2,7 +2,7 @@ Hi there 👋, I'm Mohanned Anwar:
 
 I am a full-stack developer with expertise in various languages and tools such as Python, Java, Android, Flutter, Dart, Laravel, PHP, TDD, Linux, Refactoring, HTML, CSS, JavaScript, Firebase, Boot API, etc. I have experience in building various web and mobile applications.
 
-
+```
     class DevMaas extends Developer
     {
         public String $name = "Mohanned Anwar";
@@ -31,5 +31,10 @@ I am a full-stack developer with expertise in various languages and tools such a
             ]);
         }
     }
+```
+
+![Muhanned-Anwar github status](https://github-readme-stats.vercel.app/api?username=Muhanned-Anwar)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhanned-Anwar.Muhanned-Anwar)
 
 You can check out my portfolio and connect with me on LinkedIn and GitHub for more details about my work.
