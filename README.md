@@ -37,9 +37,8 @@ I am a full-stack developer with expertise in various languages and tools such a
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhanned-Anwar.Muhanned-Anwar)
 
-You can check out my portfolio and connect with me on LinkedIn and GitHub for more details about my work.
 
-### :fire: My Stats :
+### Some Stats :
 
 <div id="header" align="center">
 
@@ -48,3 +47,6 @@ You can check out my portfolio and connect with me on LinkedIn and GitHub for mo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhanned-Anwar&layout=compact&theme=vision-friendly-dark)]
 
 </div>
+
+You can check out my portfolio and connect with me on LinkedIn and GitHub for more details about my work.
+
