@@ -33,10 +33,6 @@ I am a full-stack developer with expertise in various languages and tools such a
     }
 ```
 
-![Muhanned-Anwar github status](https://github-readme-stats.vercel.app/api?username=Muhanned-Anwar)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhanned-Anwar.Muhanned-Anwar)
-
 
 ### Some Stats :
 
@@ -46,6 +42,10 @@ I am a full-stack developer with expertise in various languages and tools such a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhanned-Anwar&layout=compact&theme=vision-friendly-dark)]
 
+![Muhanned-Anwar github status](https://github-readme-stats.vercel.app/api?username=Muhanned-Anwar&layout=compact&theme=vision-friendly-dark)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhanned-Anwar.Muhanned-Anwar)
+    
 </div>
 
 You can check out my portfolio and connect with me on LinkedIn and GitHub for more details about my work.
