@@ -48,7 +48,7 @@ I am a full-stack developer with expertise in various languages and tools such a
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muhanned-Anwar&rank=SSS,SSS,SS,S,AAA,AA,A&heme=vision-friendly-dark&column=6)](https://github.com/Muhanned-Anwar)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muhanned-Anwar&rank=SECRET,SSS,SS,S,AAA,AA,A&heme=vision-friendly-dark&column=6)](https://github.com/Muhanned-Anwar)
 
     
 </div>
