@@ -45,6 +45,11 @@ I am a full-stack developer with expertise in various languages and tools such a
 ![Muhanned-Anwar github status](https://github-readme-stats.vercel.app/api?username=Muhanned-Anwar&layout=compact&theme=vision-friendly-dark)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Muhanned-Anwar.Muhanned-Anwar)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muhanned-Anwar&rank=SECRET,SSS,SS,S,AAA,AA,A&heme=vision-friendly-dark&column=6)](https://github.com/Muhanned-Anwar)
+
     
 </div>
 
