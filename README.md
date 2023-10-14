@@ -1,5 +1,5 @@
 We are in a state of war under the bombardment of missiles from the Zionist occupier. Victory is ours, 
-God willingز
+God willing.
 
 #Palestine 
 #Gaza
