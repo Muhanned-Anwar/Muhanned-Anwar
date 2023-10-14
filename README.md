@@ -1,3 +1,10 @@
+We are in a state of war under the bombardment of missiles from the Zionist occupier. Victory is ours, 
+God willingز
+
+#Palestine 
+#Gaza
+#Gaza_Under_Attack
+
 Hi there 👋, I'm Mohanned Anwar:
 
 I am a full-stack developer with expertise in various languages and tools such as Python, Java, Android, Flutter, Dart, Laravel, PHP, TDD, Linux, Refactoring, HTML, CSS, JavaScript, Firebase, Boot API, etc. I have experience in building various web and mobile applications.
